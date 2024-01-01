@@ -1,7 +1,12 @@
 package level0;
 
-public class level0_0 {
-    public static void main(String[] args) {
+import java.util.Scanner;
 
+public class level0_0 {//문자열 출력하기
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String a = sc.next();
+
+        System.out.println(a);
     }
 }
