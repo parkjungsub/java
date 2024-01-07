@@ -1,6 +1,6 @@
 package level0;
 
-public class Level0_17 {
+public class Level0_17 {// 두수의 곱 구하기
     public static void main(String[] args) {
         System.out.println(solution(1,2));
     }
